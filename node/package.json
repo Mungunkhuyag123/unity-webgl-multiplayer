@@ -3,13 +3,10 @@
   "author": "valia fetisov",
   "version": "0.1.0",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "ws": "^7.4.6"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.2"
   }
+ 
 }
